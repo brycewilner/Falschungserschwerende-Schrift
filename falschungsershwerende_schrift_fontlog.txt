@@ -1,0 +1,23 @@
+Fontlog for Fälschungsershwerende Schrift
+
+This file provides detailed information on the Fälschungsershwerende Schrift font software. This information should be distributed along with the Fälschungsershwerende Schrift font and any derivative works.
+
+Basic Font Information
+
+Fälschungsershwerende Schrift is a font in one weight originally drawn by Karlgeorg Hoefer in 1978. This version is based on a specimen that was published with the essay “Fälschungsershwerende Schrift” by Benjamin Tiven (http://www.servinglibrary.org/journal/3/falschungserschwerende-schrift).
+
+Fälschungsershwerende Schrift is a Unicode typeface family that supports all languages that use the Latin script and its variants, and could be expanded to support other scripts.
+
+ChangeLog
+
+January 2017 (Bryce Wilner) Fälschungsershwerende Schrift version 1.0
+—Initial release
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), email (E), web-address (if you have one) (W) and description (D). This list is in alphabetical order.
+
+N: Bryce Wilner
+E: wilnerbs@gmail.com
+W: http://www.brycewilner.com
+D: Designer—original Roman glyphs
